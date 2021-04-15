@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background-color: #65659e;
+}
+/* 
+#tittle {
+    text-align: center;
+} */
+
+#form-header {
+    text-align: center;
+}
+
+#survey-form {
+    padding: 40px;
+    background-color: #282847;
+    max-width: 680px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+#container {
+    padding: 5px 5px;
+}
